@@ -20,6 +20,7 @@
     netsync: false
     drawdepth: Mobs
     sprite: Mob/ghost.rsi
+    shader: unshaded
     state: animated
     color: "#fff8"
 
